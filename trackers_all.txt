@@ -1,5 +1,15 @@
 http://1337.abcvg.info:80/announce
 
+http://nyaa.tracker.wf:7777/announce
+
+udp://open.stealth.si:80/announce
+
+udp://tracker.opentrackr.org:1337/announce
+
+udp://tracker.coppersurfer.tk:6969/announce
+
+udp://exodus.desync.com:6969/announce
+
 http://bt.3kb.xyz:80/announce
 
 http://share.camoe.cn:8080/announce
